@@ -1,0 +1,1 @@
+(this.webpackJsonpeverything=this.webpackJsonpeverything||[]).push([[122],{3778:function(e,t,a){"use strict";var h=a(613),i=a(614);Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var l=i(a(1)),r=(0,h(a(615)).default)(l.createElement("path",{d:"M10 4v3h2.21l-3.42 8H6v3h8v-3h-2.21l3.42-8H18V4z"}),"FormatItalic");t.default=r}}]);

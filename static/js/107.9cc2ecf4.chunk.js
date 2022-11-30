@@ -1,0 +1,1 @@
+(this.webpackJsonpeverything=this.webpackJsonpeverything||[]).push([[107],{3755:function(e,t,n){"use strict";n.r(t);n(1);var h=n(381),i=n(3704),r=(n(3602),n(0));t.default=function(){return Object(r.jsx)(r.Fragment,{children:Object(r.jsx)(h.a,{sx:{width:"80vw",height:"80vh",border:"1px solid black",overflow:"hidden"},children:Object(r.jsx)(i.a,{data:[{name:"Sheet1"}]})})})}}}]);

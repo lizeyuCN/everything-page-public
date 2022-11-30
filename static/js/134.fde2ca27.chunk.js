@@ -1,0 +1,1 @@
+(this.webpackJsonpeverything=this.webpackJsonpeverything||[]).push([[134],{3796:function(e,t,a){"use strict";var v=a(613),i=a(614);Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var n=i(a(1)),r=(0,v(a(615)).default)(n.createElement("path",{d:"M19 13H5v-2h14v2z"}),"Remove");t.default=r}}]);

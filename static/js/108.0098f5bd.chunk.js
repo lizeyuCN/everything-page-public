@@ -1,0 +1,1 @@
+(this.webpackJsonpeverything=this.webpackJsonpeverything||[]).push([[108],{3757:function(e,t,n){"use strict";n.r(t);n(1);var r=n(472),c=n(0);t.default=function(){return Object(c.jsx)(c.Fragment,{children:Object(c.jsx)(r.a,{component:"a",href:"/bi/create",target:"_blank",children:"\u521b\u5efa"})})}}}]);
